@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "31998109868",
+    "firebase_url": "https://plant-vision-95c86.firebaseio.com",
+    "project_id": "plant-vision-95c86",
+    "storage_bucket": "plant-vision-95c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31998109868:android:93e4dfbb8eadf8da",
+        "android_client_info": {
+          "package_name": "com.plantvision.grp6.plantvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31998109868-q144ff5j27e9o3sjp1a93pphf12kta4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plantvision.grp6.plantvision",
+            "certificate_hash": "f56b732bfac9da2d9ed5f5912768f27a62a298f9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAry7Zvq-luupIUjXcinzGKNbs2mok0RFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31998109868-1rnlgiugi2j88i8h31icuule75cell1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
